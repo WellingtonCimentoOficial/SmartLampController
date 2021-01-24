@@ -5,7 +5,7 @@
 ">
 </p>
 
-The script contains a total of 4 main options on your home screen that are used to send commands to your Yeelight Smart Led Bulb (COLOR) device such as:
+The script contains a total of 6 main options on your home screen that are used to send commands to your Yeelight Smart Led Bulb (COLOR) device such as:
 * ON
 * OFF
 * BRIGHTNESS
@@ -29,25 +29,25 @@ In this image we have the main menu that appears right when we run the script. W
   
 ![SmartLampController1](https://user-images.githubusercontent.com/77591040/105621837-85981880-5dea-11eb-94ea-9a092e6e68ba.PNG)
 
-* Image 3 - Brightness Menu
+* Image 2 - Brightness Menu
 
 Here we have option 3 which has the function of increasing and decreasing the brightness of our Lamp. We can choose the brightness in a value from 1 to 100, being 1 for the minimum brightness and 100 for the maximum brightness. In addition we can use 0 or voltar to return to the previous menu.
 
 ![SmartLampController2](https://user-images.githubusercontent.com/77591040/105621840-8630af00-5dea-11eb-9324-d9dcba5f17f5.PNG)
 
-* Image 4 - Saturation Menu
+* Image 3 - Saturation Menu
 
 In this menu you can control the saturation of the lamp, and you can set a value of 1 for a weaker color and 100 for a stronger color. Between these two values, we can set any number for more possibilities.
 
 ![SmartLampController2](https://user-images.githubusercontent.com/77591040/105621840-8630af00-5dea-11eb-9324-d9dcba5f17f5.PNG)
 
-* Image 5 - Temperature Menu
+* Image 4 - Temperature Menu
 
 Here we were able to change the color temperature from 1700 to 6500, 1700 for a hotter color and 6500 for a colder color. Among these values, it was possible to acquire different colors, the higher the set value, the colder the lamp's color will be.
 
 ![SmartLampController3](https://user-images.githubusercontent.com/77591040/105621842-86c94580-5dea-11eb-8a6b-8217f8823cbc.PNG)
 
-* Image 6 - Colors Menu
+* Image 5 - Colors Menu
 
 In this last image we have option 4 where we can define a color for our yeelight lamp. So 1 for white, 2 for blue, 3 for red, 4 for yellow, 5 for purple, 6 for green, 00 for returning and 0 for leaving.
 
