@@ -17,7 +17,7 @@ Below we have some images that show the functions mentioned above ...
 
 The first time the script is run, you will be required to enter the internal IP of the Yeelight Smart Led Bulb (COLOR) device. After providing the information and giving an ENTER this information will be stored in a .txt file that will be saved in "C:\Users\USER\Documents" with the name "LampController_file_ip.txt". Then we can use all the script's functions. If the device's ip changes, just delete the file "LampController_file_ip.txt" and run the script, so you can provide the device's new ip address again.
 
-![SmartLampController4](https://user-images.githubusercontent.com/77591040/105569399-02aa8b80-5d20-11eb-9a12-37e15250d78b.PNG)
+![SmartLampController5](https://user-images.githubusercontent.com/77591040/105621844-8761dc00-5dea-11eb-9ed3-941c788c2e81.PNG)
 
 * Image 1 - Home Screen
 
@@ -25,19 +25,19 @@ In this image we have the main menu that appears right when we run the script. W
 
   In addition to using the option numbers in the menu, we can type what we want to do as: ON, OFF, BRILHO e CORES.
   
-![SmartLampController1](https://user-images.githubusercontent.com/77591040/105568545-025ac200-5d19-11eb-8af0-6e7a9939f8f5.PNG)
+![SmartLampController1](https://user-images.githubusercontent.com/77591040/105621837-85981880-5dea-11eb-94ea-9a092e6e68ba.PNG)
 
 * Image 3 - Brightness Menu
 
 Here we have option 3 which has the function of increasing and decreasing the brightness of our Lamp. We can choose the brightness in a value from 1 to 100, being 1 for the minimum brightness and 100 for the maximum brightness. In addition we can use 0 or voltar to return to the previous menu.
 
-![SmartLampController2](https://user-images.githubusercontent.com/77591040/105568549-10104780-5d19-11eb-97f0-f199028b5a7e.PNG)
+![SmartLampController2](https://user-images.githubusercontent.com/77591040/105621840-8630af00-5dea-11eb-9324-d9dcba5f17f5.PNG)
 
 * Image 4 - Colors Menu
 
 In this last image we have option 4 where we can define a color for our yeelight lamp. So 1 for white, 2 for blue, 3 for red, 4 for yellow, 5 for purple, 6 for green, 00 for returning and 0 for leaving.
 
-![SmartLampController3](https://user-images.githubusercontent.com/77591040/105568551-130b3800-5d19-11eb-86d0-a41e8ed69c65.PNG)
+![SmartLampController4](https://user-images.githubusercontent.com/77591040/105621843-86c94580-5dea-11eb-94f6-c18cb2e6e99b.PNG)
 
 # Geral Description
 
