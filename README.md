@@ -9,6 +9,8 @@ The script contains a total of 4 main options on your home screen that are used 
 * ON
 * OFF
 * BRIGHTNESS
+* SATURATION
+* TEMPERATURE
 * COLORS
 
 Below we have some images that show the functions mentioned above ...
@@ -23,7 +25,7 @@ The first time the script is run, you will be required to enter the internal IP 
 
 In this image we have the main menu that appears right when we run the script. We have 4 options that we can choose, in option 1 and 2 we can turn the device on and off using the option number or by typing the option. Next we have options 3 and 4, so option 3 to change the brightness of the lamp and option 4 to choose a predefined color for the device. In addition to the options mentioned, we have one last option which is the option to close the script using 00 or by typing exit.
 
-  In addition to using the option numbers in the menu, we can type what we want to do as: ON, OFF, BRILHO e CORES.
+  In addition to using the option numbers in the menu, we can type what we want to do as: ON, OFF, BRIGHTNESS, SATURATION, TEMPERATURE e COLORS.
   
 ![SmartLampController1](https://user-images.githubusercontent.com/77591040/105621837-85981880-5dea-11eb-94ea-9a092e6e68ba.PNG)
 
