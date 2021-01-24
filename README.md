@@ -37,7 +37,7 @@ Here we have option 3 which has the function of increasing and decreasing the br
 
 In this menu you can control the saturation of the lamp, and you can set a value of 1 for a weaker color and 100 for a stronger color. Between these two values, we can set any number for more possibilities.
 
-![SmartLampController1](https://user-images.githubusercontent.com/77591040/105621837-85981880-5dea-11eb-94ea-9a092e6e68ba.PNG)
+![SmartLampController2](https://user-images.githubusercontent.com/77591040/105621840-8630af00-5dea-11eb-9324-d9dcba5f17f5.PNG)
 
 * Image 5 - Temperature Menu
 
